@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuburman&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuburman" /> </p>
 
-- 🔭 I’m currently working on **Geo-fencing systems**
+- 🔭 I’m currently working on **Smart Hostels**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Kubernates**
 
-- 💬 Ask me about **Machine Learning, JAVA, Web development**
+- 💬 Ask me about **Devops, React, JAVA, Web development**
 
 - 📫 How to reach me **bhanuburman484@gmail.com**
 
