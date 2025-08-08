@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuburman&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuburman" /> </p>
 
-- 🔭 I’m currently working on **Smart Hostels**
+- 🔭 I’m currently working on **Job-Fit AI**
 
 - 🌱 I’m currently learning **Kubernates**
 
